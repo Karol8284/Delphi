@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.472,=C:\Users\mckar\OneDrive\Dokumenty\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\mckar\OneDrive\Dokumenty\Delphi\Unit1.dfm=C:\Users\mckar\OneDrive\Dokumenty\Delphi\Project1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\mckar\OneDrive\Dokumenty\Delphi\Unit1.pas=C:\Users\mckar\OneDrive\Dokumenty\Delphi\Project1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,=C:\Users\mckar\OneDrive\Dokumenty\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\mckar\OneDrive\Dokumenty\Delphi\Project1.dproj=C:\Users\mckar\OneDrive\Dokumenty\Delphi\Project1\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
